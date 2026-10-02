@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/escape-room/',
+  base: '/math-escape-room/',
   plugins: [react(), tailwindcss()],
 })

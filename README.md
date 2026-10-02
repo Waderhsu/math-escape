@@ -11,7 +11,7 @@ npm run dev
 
 ## 線上遊玩
 
-部署完成後：[https://waderhsu.github.io/escape-room/](https://waderhsu.github.io/escape-room/)
+部署完成後：[https://waderhsu.github.io/math-escape-room/](https://waderhsu.github.io/math-escape-room/)
 
 ## 部署
 
